@@ -6,7 +6,7 @@
 # Hi 👋 , mein GitHub Seite 
 
 ```yaml
-                                                          Tomi one !
+                                                           Tomi one !
 ```
 ## Über PyCharm & Python - Py-cord - GitHub eine Bot erstellt für meine Discord Server.
 
@@ -35,7 +35,7 @@
 <!-- PROJECT LOGO 2 -->
 <br />
 <div align="center">
- <img src="https://cdn.discordapp.com/attachments/1070102699334451230/1112220799282200696/HAUPT_LOGO.jpg" alt="Logo" width="180" height="180">
+ <img src="https://cdn.discordapp.com/attachments/1070102699334451230/1112220799282200696/HAUPT_LOGO.jpg" alt="Logo" width="200" height="200">
 <h3 align="center">Killerkommando</h3>
 </div>
 
