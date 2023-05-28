@@ -2,7 +2,6 @@
 
 [![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/tomione)
 [![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/killerkommando)
-![Discord](https://img.shields.io/discord/?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)
 
 # Hi 👋 , auf meine GitHub Seite.
 
@@ -55,6 +54,7 @@
 
 * [Python](https://www.python.org/)
 * [Py-cord](https://www.pycord.dev/)
+* [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ```yaml
 
