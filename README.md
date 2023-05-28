@@ -22,6 +22,10 @@
 <h3 align="center">Tomi One</h3>
 </div>
 
+```yaml
+
+```
+## Clash of Clans
 
 ```yaml
                                                           Killerkommando Family !
