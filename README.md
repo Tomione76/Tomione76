@@ -10,6 +10,8 @@
 ```
 ## Über PyCharm & Python - Py-cord - GitHub eine Bot erstellt für meine Discord Server.
 
+### Sonsten Arbeite mit Tabellen in Excel Bereich. // VBA EXCEL // Power Query // Präsentation.
+
 ```yaml
 
 ```
@@ -28,7 +30,7 @@
 ## Clash of Clans
 
 ```yaml
-                                                       Killerkommando Family !
+                                                      Killerkommando Family !
 ```
 
 
