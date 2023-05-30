@@ -10,7 +10,7 @@
 ```
 ## Über PyCharm & Python - Py-cord - GitHub eine Bot erstellt für meine Discord Server.
 
-### Sonsten Arbeite mit Tabellen in Excel Bereich. // VBA EXCEL // Power Query // Präsentation.
+### Sonsten beschäftige mich mit Tabellen in Excel Bereich. // VBA EXCEL // Power Query // Präsentation.
 
 ```yaml
 
