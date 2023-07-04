@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="1" class="java.lang.String" itemvalue="ssh2-python" />
+            <item index="2" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="3" class="java.lang.String" itemvalue="orjson" />
+            <item index="4" class="java.lang.String" itemvalue="torch" />
+            <item index="5" class="java.lang.String" itemvalue="numpy" />
+            <item index="6" class="java.lang.String" itemvalue="torchvision" />
+            <item index="7" class="java.lang.String" itemvalue="frozenlist" />
+            <item index="8" class="java.lang.String" itemvalue="backports.zoneinfo" />
+            <item index="9" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="10" class="java.lang.String" itemvalue="lxml" />
+            <item index="11" class="java.lang.String" itemvalue="multidict" />
+            <item index="12" class="java.lang.String" itemvalue="yarl" />
+            <item index="13" class="java.lang.String" itemvalue="cchardet" />
+            <item index="14" class="java.lang.String" itemvalue="pysimdjson" />
+            <item index="15" class="java.lang.String" itemvalue="Pillow" />
+            <item index="16" class="java.lang.String" itemvalue="ujson" />
+            <item index="17" class="java.lang.String" itemvalue="Nuitka" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="blau" />
+          <option value="discord.Intents" />
+          <option value="discord.Bot" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

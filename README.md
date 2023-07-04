@@ -6,14 +6,12 @@
 # Hi 👋 , auf meine GitHub Seite.
 
 ```yaml
-
 ```
 ## Über PyCharm & Python - Py-cord - GitHub eine Bot erstellt für meine Discord Server.
 
 ### Sonsten Arbeite mit Tabellen in Excel Bereich. // VBA EXCEL // Power Query // Präsentation.
 
 ```yaml
-
 ```
 
 
@@ -26,27 +24,28 @@
 </div>
 
 ```yaml
-
 ```
-## Clash of Clans
-
-```yaml
-
-```
-
 
 <!-- PROJECT LOGO 2 -->
-
 <br />
 <div align="center">
+<h2 algin="center">Clash of Clans</h2>
  <img src="https://cdn.discordapp.com/attachments/1070102699334451230/1112220799282200696/HAUPT_LOGO.jpg" alt="Logo" width="200" height="200">
 <h3 align="center">Killerkommando - Family</h3>
 </div>
 
 ```yaml
-
 ```
+<!-- PROJECT LOGO 3 -->
+<br />
+<div align="center">
+<h2 algin="center">Clash of Clans</h2>
+ <img src="https://cdn.discordapp.com/attachments/848122822622314499/1018594770412634112/Logo.png" alt="Logo" width="200" height="200">
+<h3 align="center">Jean Barth</h3>
+</div>
 
+```yaml
+```
 
 <!-- ABOUT THE PROJECT -->
 
@@ -57,7 +56,6 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ```yaml
-
 ```
 
 ![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=solarized-dark)
