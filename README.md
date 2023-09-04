@@ -11,9 +11,6 @@
 
 ### Sonsten beschäftige mich mit Tabellen in Excel Bereich. // VBA EXCEL // Power Query // Präsentation.
 
-```yaml
-```
-
 
 <!-- PROJECT LOGO -->
 
@@ -23,25 +20,13 @@
 <h3 align="center">Tomi One</h3>
 </div>
 
-```yaml
-```
-
-<!-- PROJECT LOGO 2 -->
 <br />
 <div align="center">
 <h2 algin="center">Clash of Clans</h2>
- <img src="https://cdn.discordapp.com/attachments/1070102699334451230/1112220799282200696/HAUPT_LOGO.jpg" alt="Logo" width="200" height="200">
-<h3 align="center">Killerkommando - Family</h3>
-</div>
-
-```yaml
-```
-<!-- PROJECT LOGO 3 -->
-<br />
-<div align="center">
-<h2 algin="center">Clash of Clans</h2>
- <img src="https://cdn.discordapp.com/attachments/848122822622314499/1018594770412634112/Logo.png" alt="Logo" width="200" height="200">
-<h3 align="center">Jean Barth</h3>
+    <img src="https://cdn.discordapp.com/attachments/1070102699334451230/1112220799282200696/HAUPT_LOGO.jpg" alt="Logo" width="200" height="200">
+    <img src="https://cdn.discordapp.com/attachments/848122822622314499/1018594770412634112/Logo.png" alt="Logo" width="200" height="200">
+    <img src="https://media.discordapp.net/attachments/1145424807744245910/1145709345070403687/20230827_202236_0000.png?width=625&height=625" alt="Logo" width="200" height="200">
+<h3 align="center">Killerkommando - Family   |  Jean Barth   |   BestPractice - Family</h3>
 </div>
 
 ```yaml
@@ -55,8 +40,7 @@
 * [Py-cord](https://www.pycord.dev/)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 
-```yaml
-```
+
 
 ![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=solarized-dark)
 
