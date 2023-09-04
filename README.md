@@ -1,8 +1,10 @@
 # Tomi One
 
-[![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord_TomiOne&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/CuQ2n3ZeYw)
+[![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord_TomiOne&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Mp95QN8qAC)
 [![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=Discord_Killerkommando&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/RtgaJNx3ka)
+[![Discord](https://img.shields.io/discord/1145289499182641187?color=blue&label=Discord_JeanBarth&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/6sBx2USr)
 [![Discord](https://img.shields.io/discord/1145289499182641187?color=blue&label=Discord_BestPractice&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/rKgCEyEGyE)
+
 
 
 # Hi 👋 , auf meine GitHub Seite.
