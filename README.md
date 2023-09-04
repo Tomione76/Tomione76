@@ -1,7 +1,7 @@
 # Tomi One
 
-[![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/tomione)
-[![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/killerkommando)
+[![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/CuQ2n3ZeYw)
+[![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/RtgaJNx3ka)
 [![Discord](https://img.shields.io/discord/1145289499182641187?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/bestpractice)
 
 
