@@ -1,20 +1,21 @@
 # Tomi One
 
-[![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/CuQ2n3ZeYw)
-[![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/RtgaJNx3ka)
-[![Discord](https://img.shields.io/discord/1145289499182641187?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/bestpractice)
+[![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord_TomiOne&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/CuQ2n3ZeYw)
+[![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=Discord_Killerkommando&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/RtgaJNx3ka)
+[![Discord](https://img.shields.io/discord/1145289499182641187?color=blue&label=Discord_BestPractice&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/rKgCEyEGyE)
 
 
 # Hi 👋 , auf meine GitHub Seite.
 
 ```yaml
 ```
-## Über PyCharm & Python - Py-cord - GitHub eine Bot erstellt für meine Discord Server.
+##  Über PyCharm & Python - Py-cord - GitHub - Bot erstellt für meine Discord Server.
 
-### Sonsten beschäftige mich mit Tabellen in Excel Bereich. // VBA EXCEL // Power Query // Präsentation.
+### Beschäftige mich gerne mit Tabellen.  Excel  // VBA EXCEL // Power Query // Präsentation.
+###     sowie SQL & MySQL
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGOS -->
 
 <br />
 <div align="center"> 
