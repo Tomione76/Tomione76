@@ -2,6 +2,8 @@
 
 [![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/tomione)
 [![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/killerkommando)
+[![Discord](https://img.shields.io/discord/1145289499182641187?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/bestpractice)
+
 
 # Hi 👋 , auf meine GitHub Seite.
 
