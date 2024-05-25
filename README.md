@@ -33,7 +33,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1173661556995784844/1243869681639620743/BP-Logo.png?ex=66530b6a&is=6651b9ea&hm=b5382cb594d1b937d598faf2c0a1d4af681addc02a8fa660953abc6c1bb60680&" alt="Logo" width="80" height="80">
 
-<img src="https://media.discordapp.net/attachments/1145424807744245910/1145709345070403687/20230827_202236_0000.png?width=625&height=625" alt="Logo" width="80" height="80">
+<img src="https://cdn.discordapp.com/attachments/1149785651382857770/1243893644830838815/Download_25.png?ex=665321bb&is=6651d03b&hm=d91d6d0df0e11f53c7ca0db352eb3c7cc3442012dbb9b118f90650403491fac2&" alt="Logo" width="80" height="80">
 <h3 align="center"> ZRJ-Westallgäu & Team  |  BestPractice-Family | KK & DK - Family</h3>
 </div>
 
