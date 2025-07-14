@@ -2,9 +2,9 @@
 
 [![Discord](https://img.shields.io/discord/980461610948771911?color=blue&label=Tomi.One&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ENVnkdrnfa)
 
-[![Discord](https://img.shields.io/discord/1199266596754030665?color=blue&label=ZRJ-W-Team&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2wFEqBuGeh)
+[![Discord](https://img.shields.io/discord/1199266596754030665?color=blue&label=Jean-Barth&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2wFEqBuGeh)
 
-[![Discord](https://img.shields.io/discord/730390436442538024?color=blue&label=KK-DK-Family&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/RtgaJNx3ka)
+[![Discord](https://img.shields.io/discord/803393544965849088?color=blue&label=Ü18-Sanatorium&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/V2ZPUsfbqC)
 
 
 
@@ -33,7 +33,7 @@
 
 
 <img src="https://cdn.discordapp.com/attachments/1149785651382857770/1243893644830838815/Download_25.png?ex=665321bb&is=6651d03b&hm=d91d6d0df0e11f53c7ca0db352eb3c7cc3442012dbb9b118f90650403491fac2&" alt="Logo" width="80" height="80">
-<h3 align="center"> ZRJ-Westallgäu & Team  |  KK & DK - Family</h3>
+<h3 align="center"> Ü18 Sanatorium & Jean Barth</h3>
 </div>
 
 
